@@ -1,4 +1,4 @@
 # ssmlninja
-A collection of SSML docs, tips, tricks, tools and more.
 
+A collection of SSML docs, tips, tricks, tools and more.
 
